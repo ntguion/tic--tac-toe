@@ -1,0 +1,6 @@
+C:\Users\Nathan Guion\Documents\Visual Studio 2017\Projects\TicTacToeForeal\TicTacToeForeal\bin\Debug\TicTacToeForeal.exe.config
+C:\Users\Nathan Guion\Documents\Visual Studio 2017\Projects\TicTacToeForeal\TicTacToeForeal\bin\Debug\TicTacToeForeal.exe
+C:\Users\Nathan Guion\Documents\Visual Studio 2017\Projects\TicTacToeForeal\TicTacToeForeal\bin\Debug\TicTacToeForeal.pdb
+C:\Users\Nathan Guion\Documents\Visual Studio 2017\Projects\TicTacToeForeal\TicTacToeForeal\obj\Debug\TicTacToeForeal.exe
+C:\Users\Nathan Guion\Documents\Visual Studio 2017\Projects\TicTacToeForeal\TicTacToeForeal\obj\Debug\TicTacToeForeal.pdb
+C:\Users\Nathan Guion\Documents\Visual Studio 2017\Projects\TicTacToeForeal\TicTacToeForeal\obj\Debug\TicTacToeForeal.csprojResolveAssemblyReference.cache
